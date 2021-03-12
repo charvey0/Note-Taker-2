@@ -5,10 +5,13 @@
 [Note-Taker-2 on Heroku](https://secure-cliffs-14972.herokuapp.com/)
 
 
+## Images of live deployment:
 [<img src="Note-Taker.png" width="550"/>](Note-Taker.png)
 
 [<img src="Desktop-screenshot.png" width="550"/>](Desktop-screenshot.png)
 
+
+## Walkthrough video of live deployment:
 [![README-creator-video](https://img.youtube.com/vi/IpvDItVe8PA/0.jpg)](https://www.youtube.com/watch?v=IpvDItVe8PA)
 
 # Table of Contents
