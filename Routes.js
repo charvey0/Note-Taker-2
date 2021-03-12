@@ -40,7 +40,7 @@ module.exports = (app) => {
         // delete object matching id
         noteList.splice(noteList.indexOf(findNote), 1);
         updateDb();
-        res.end(`Note with id="${id}"was deleted`);
+        res.end(`Note was deleted`);
     });
 
     function updateDb() {
